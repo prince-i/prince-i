@@ -16,8 +16,6 @@ Programmer • Tech Contractor
 - Technology and Infrastructure  
 - Technical Research and Documentation  
 
----
-
 ### 🛠️ **About Me**
 
 I’m an experienced IT professional with **5+ years** in programming, system development, and tech operations.  
@@ -27,8 +25,6 @@ Skilled in:
 - **Web administration and machine learning**
 
 I have a **proven ability** to lead projects, automate processes, and deliver reliable tech solutions across diverse environments.
-
----
 
 ### 🚀 **What I Do**
 
@@ -44,5 +40,3 @@ I deliver:
 
 If you’re seeking a **reliable IT professional** to enhance systems, automate workflows, or deliver expert solutions, I’m here to help.  
 **Let’s collaborate to drive innovation and boost efficiency in your tech initiatives.**
-
----
