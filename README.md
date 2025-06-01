@@ -35,7 +35,7 @@ I’ve led development teams and supported projects in:
 
 I deliver:  
 - Web applications  
-- Data analytics  
+- Machine Learning and Data Science Research  
 - IT consulting
 
 If you’re seeking a **reliable IT professional** to enhance systems, automate workflows, or deliver expert solutions, I’m here to help.  
